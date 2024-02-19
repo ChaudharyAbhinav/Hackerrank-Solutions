@@ -1,5 +1,5 @@
 
-
+```Java
 public static int camelcase(String s) {
     // Write your code here
     int count=0;
@@ -11,3 +11,7 @@ public static int camelcase(String s) {
         }
         return count+1;
     }
+```
+
+`TC` : O(n)
+`SC` : O(1)

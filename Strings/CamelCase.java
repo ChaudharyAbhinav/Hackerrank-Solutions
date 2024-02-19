@@ -1,5 +1,5 @@
 
-```java
+```
 public static int camelcase(String s) {
     // Write your code here
     int count=0;
